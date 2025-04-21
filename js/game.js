@@ -1,4 +1,4 @@
-BACKEND_URL = "https://mario-p44r.onrender.com";
+BACKEND_URL = "https://mario-backend-v4y5.onrender.com";
 //BACKEND_URL = "http://localhost:3000";
 
 // Create and initialize the inspector panel
